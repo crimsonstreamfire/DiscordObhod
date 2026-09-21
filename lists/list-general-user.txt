@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# crimsonstreamfire/DiscordObhod d54875defeb3
